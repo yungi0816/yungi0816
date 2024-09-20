@@ -5,15 +5,16 @@
 
 #
 
-<h1>
- :diamonds: VISIT :diamonds:
+<h2>
+ :bookmark_tabs: VISIT :bookmark_tabs:
   <br>
   <img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyungi0816&count_bg=%23020205&title_bg=%23028210&icon=&icon_color=%23E5E0E0&title=VISIT&edge_flat=false">
-</h1>
+</h2>
 
 
 <h2> 
   :vertical_traffic_light:Teck Stack:vertical_traffic_light:
+  <br>
   <br>
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript">
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/Node.js-white?style=plastic&logo=Node.js">
@@ -27,17 +28,16 @@
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/Mysql-%234479A1?style=plastic&logo=Mysql&logoColor=white">
 <img  align='center' alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=plastic&logo=MariaDB&logoColor=white">
 </h2>
+
+<h2>
 :books:Studying:books:
 
 <br>
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=TypeScript&logoColor=white">
-
-<h3>
-
   
-  </h3>
-#
-#
+</h2>
+ 
+
 <h2>
   :factory:Language Stats:factory:
   <br>
