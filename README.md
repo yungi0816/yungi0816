@@ -1,4 +1,5 @@
-## Hi there 👋
+<!--Heading-->
+# Hi there 👋
 
 <!--
 **yungi0816/yungi0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyungi0816&count_bg=%23020205&title_bg=%23028210&icon=&icon_color=%23E5E0E0&title=VISIT&edge_flat=false)](https://github.com/yungi0816)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yungi0816" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yungi0816">
