@@ -8,7 +8,8 @@
   :raised_hands:Introduction:raised_hands:
   <br>  <br>
   안녕하세요!<br> <br> 백엔드 개발자로 6개월간의 근무 중 산업재해로 인해 퇴사하여 :cry: <br><br>
-  치료를 마치고 :syringe: 취업준비 및 공부중인 신입개발자입니다.
+  치료를 마치고 :syringe: 취업준비 및 공부중인 
+  신입개발자입니다.
 </h2>
 <h2>
  :bookmark_tabs: VISIT :bookmark_tabs:
