@@ -12,7 +12,7 @@
 </h2>
 <h2>
  :bookmark_tabs: VISIT :bookmark_tabs:
-  <br>
+  <br> <br>
   <img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyungi0816&count_bg=%23020205&title_bg=%23028210&icon=&icon_color=%23E5E0E0&title=VISIT&edge_flat=false">
   <br><br>
 </h2>
@@ -38,7 +38,7 @@
 
 <h2>
 :books:Studying:books:
-
+ <br>
 <br>
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=TypeScript&logoColor=white">
   <br><br>
@@ -56,8 +56,8 @@
   :link:Cording Stats:link:
   <br>
   <br>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=yungi0816" height="165">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hahaho143">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=yungi0816" height="165">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hahaho143">
 </h3>
 
 
