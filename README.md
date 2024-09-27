@@ -8,13 +8,13 @@
   :raised_hands:Introduction:raised_hands:
   <br>  <br>
   안녕하세요!<br> <br> 백엔드 개발자로 6개월간의 근무 중 산업재해로 인해 퇴사하여 :cry: <br><br>
-  치료를 마치고 :syringe: <br> 취업준비 및 공부중인 
- <br> 신입개발자입니다.
+  치료를 마치고 :syringe: <br><br> 취업준비 및 공부중인 신입개발자입니다.<br> <br>
 </h2>
 <h2>
  :bookmark_tabs: VISIT :bookmark_tabs:
   <br>
   <img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyungi0816&count_bg=%23020205&title_bg=%23028210&icon=&icon_color=%23E5E0E0&title=VISIT&edge_flat=false">
+  <br><br>
 </h2>
 
 
@@ -33,6 +33,7 @@
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/UnrealEngine-%23003545?style=plastic&logo=UnrealEngine">
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/Mysql-%234479A1?style=plastic&logo=Mysql&logoColor=white">
 <img  align='center' alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=plastic&logo=MariaDB&logoColor=white">
+  <br><br>
 </h2>
 
 <h2>
@@ -40,7 +41,7 @@
 
 <br>
 <img align='center' alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=plastic&logo=TypeScript&logoColor=white">
-  
+  <br><br>
 </h2>
  
 
@@ -49,6 +50,7 @@
   <br>
   <br>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungi0816&layout=compact">
+  <br><br>
 </h2>
 <h3>
   :link:Cording Stats:link:
