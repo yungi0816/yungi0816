@@ -14,7 +14,7 @@
 <h2>
  :bookmark_tabs: VISIT :bookmark_tabs:
   <br> <br>
-  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyungi0816.github.io%2Fvisits" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yungi0816.github.io" alt="visitor badge"/>
   <br><br>
 </h2>
 
