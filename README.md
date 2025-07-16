@@ -14,7 +14,7 @@
 <h2>
  :bookmark_tabs: VISIT :bookmark_tabs:
   <br> <br>
-  <img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyungi0816&count_bg=%23020205&title_bg=%23028210&icon=&icon_color=%23E5E0E0&title=VISIT&edge_flat=false">
+  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyungi0816.github.io%2Fvisits" alt="Visitor Count"/>
   <br><br>
 </h2>
 
