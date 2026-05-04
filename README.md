@@ -50,15 +50,15 @@
   :factory:Language Stats:factory:
   <br>
   <br>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungi0816&layout=compact">
+  <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yungi0816&theme=github">
   <br><br>
 </h2>
 <h3>
   :link:Cording Stats:link:
   <br>
   <br>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=yungi0816" height="165">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hahaho143">
+  <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yungi0816&theme=github" height="165">
+  <img align='center' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hahaho143">
 </h3>
 
 
