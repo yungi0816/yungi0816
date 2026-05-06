@@ -52,6 +52,6 @@ I build practical web and mobile products with a focus on clear user flows, main
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yungi0816&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yungi0816&theme=github" alt="GitHub stats" height="165">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yungi0816&theme=github" alt="Top languages" height="165">
 </p>
