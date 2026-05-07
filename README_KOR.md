@@ -1,4 +1,4 @@
-# 이윤기
+# YunGi Lee
 
 [English README](README.md)
 
