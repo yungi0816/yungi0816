@@ -7,7 +7,7 @@ I build practical AI-assisted, web, and mobile products with clear documentation
 English is the default language for my public project READMEs because most AI papers, GitHub projects, docs, Discord discussions, and Reddit threads appear in English first. Korean documentation is kept in separate `README_KOR.md` files.
 
 [![Blog](https://img.shields.io/badge/Blog-summary--story.tistory.com-111827?style=flat-square)](https://summary-story.tistory.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-yun-dev-cmd-181717?style=flat-square&logo=github)](https://github.com/yun-dev-cmd)
+[![GitHub](https://img.shields.io/badge/GitHub-yun--dev--cmd-181717?style=flat-square&logo=github)](https://github.com/yun-dev-cmd)
 
 ## Focus
 
