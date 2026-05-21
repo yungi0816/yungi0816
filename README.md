@@ -1,6 +1,6 @@
 # YunGi Lee
 
-[한국어 README](README_KOR.md)
+[Korean README](README_KOR.md)
 
 I build practical AI-assisted, web, and mobile products with clear documentation, small experiments, and user-focused implementation.
 
@@ -20,6 +20,7 @@ English is the default language for my public project READMEs because most AI pa
 
 | Project | What it solves | Stack |
 | --- | --- | --- |
+| [role-ai-brainstorm-workspace](https://github.com/yungi0816/role-ai-brainstorm-workspace) | Desktop-first AI brainstorming workspace with role-based agent opinions, provider diagnostics, and incremental mind map updates | Electron, React, Node.js, Express, SQLite, Ollama |
 | [smart-vocab](https://github.com/yungi0816/smart-vocab) | TOEIC vocabulary trainer with weak-word review, TTS, daily goals, and optional AI tutor | Flutter, Dart, Node.js, Fastify, SQLite |
 | [our_spring_days](https://github.com/yungi0816/our_spring_days) | Couple travel memory map for pet-friendly places, missions, route tracking, and photo albums | Flutter, Dart, Riverpod, Firebase, Google Maps |
 | [gov-admin-uiux-example](https://github.com/yungi0816/gov-admin-uiux-example) | Before/after example for improving a 10+ year legacy government admin UI | Java, JSP, Maven, OpenLayers, UI/UX |
